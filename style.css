@@ -54,10 +54,13 @@ body {
     padding: 0px 10px;
     color: white;
     margin-left: 66px;
+
 }
 
 .main-items li a:hover {
     color: hsl(198, 62%, 26%);
+    opacity: 1;
+    transition: 0.9s;
 }
 
 .main-items li {
